@@ -1,0 +1,360 @@
+Accuracy found 52.5 -> C 0.5  for rate 0.01 with epoch  3
+Accuracy found 51.5 -> C 0.5  for rate 0.01 with epoch  5
+Accuracy found 60.5 -> C 0.5  for rate 0.01 with epoch  20
+
+
+0.605 max accuracy for learning rate 0.01 C 0.5 and epoch 20
+Accuracy found 50.75 -> C 0.5  for rate 0.01 with epoch  3
+Accuracy found 58.0 -> C 0.5  for rate 0.01 with epoch  5
+Accuracy found 50.75 -> C 0.5  for rate 0.01 with epoch  20
+
+
+0.58 max accuracy for learning rate 0.01 C 0.5 and epoch 5
+Accuracy found 54.25 -> C 0.5  for rate 0.01 with epoch  3
+Accuracy found 55.75 -> C 0.5  for rate 0.01 with epoch  5
+Accuracy found 53.0 -> C 0.5  for rate 0.01 with epoch  20
+
+
+0.5575 max accuracy for learning rate 0.01 C 0.5 and epoch 5
+Accuracy found 56.5 -> C 0.5  for rate 0.01 with epoch  3
+Accuracy found 49.5 -> C 0.5  for rate 0.01 with epoch  5
+Accuracy found 47.75 -> C 0.5  for rate 0.01 with epoch  20
+
+
+0.565 max accuracy for learning rate 0.01 C 0.5 and epoch 3
+Accuracy found 56.5 -> C 0.5  for rate 0.01 with epoch  3
+Accuracy found 54.5 -> C 0.5  for rate 0.01 with epoch  5
+Accuracy found 48.0 -> C 0.5  for rate 0.01 with epoch  20
+
+
+0.565 max accuracy for learning rate 0.01 C 0.5 and epoch 3
+Accuracy found 50.75 -> C 0.25  for rate 0.01 with epoch  3
+Accuracy found 47.5 -> C 0.25  for rate 0.01 with epoch  5
+Accuracy found 52.5 -> C 0.25  for rate 0.01 with epoch  20
+
+
+0.525 max accuracy for learning rate 0.01 C 0.25 and epoch 20
+Accuracy found 50.75 -> C 0.25  for rate 0.01 with epoch  3
+Accuracy found 50.75 -> C 0.25  for rate 0.01 with epoch  5
+Accuracy found 50.75 -> C 0.25  for rate 0.01 with epoch  20
+
+
+0.5075 max accuracy for learning rate 0.01 C 0.25 and epoch 20
+Accuracy found 47.0 -> C 0.25  for rate 0.01 with epoch  3
+Accuracy found 50.75 -> C 0.25  for rate 0.01 with epoch  5
+Accuracy found 48.25 -> C 0.25  for rate 0.01 with epoch  20
+
+
+0.5075 max accuracy for learning rate 0.01 C 0.25 and epoch 5
+Accuracy found 47.75 -> C 0.25  for rate 0.01 with epoch  3
+Accuracy found 55.25 -> C 0.25  for rate 0.01 with epoch  5
+Accuracy found 59.5 -> C 0.25  for rate 0.01 with epoch  20
+
+
+0.595 max accuracy for learning rate 0.01 C 0.25 and epoch 20
+Accuracy found 52.0 -> C 0.25  for rate 0.01 with epoch  3
+Accuracy found 53.0 -> C 0.25  for rate 0.01 with epoch  5
+Accuracy found 52.75 -> C 0.25  for rate 0.01 with epoch  20
+
+
+0.53 max accuracy for learning rate 0.01 C 0.25 and epoch 5
+Accuracy found 54.75 -> C 0.125  for rate 0.01 with epoch  3
+Accuracy found 52.75 -> C 0.125  for rate 0.01 with epoch  5
+Accuracy found 52.5 -> C 0.125  for rate 0.01 with epoch  20
+
+
+0.5475 max accuracy for learning rate 0.01 C 0.125 and epoch 3
+Accuracy found 55.5 -> C 0.125  for rate 0.01 with epoch  3
+Accuracy found 57.25 -> C 0.125  for rate 0.01 with epoch  5
+Accuracy found 49.25 -> C 0.125  for rate 0.01 with epoch  20
+
+
+0.5725 max accuracy for learning rate 0.01 C 0.125 and epoch 5
+Accuracy found 57.25 -> C 0.125  for rate 0.01 with epoch  3
+Accuracy found 54.5 -> C 0.125  for rate 0.01 with epoch  5
+Accuracy found 56.75 -> C 0.125  for rate 0.01 with epoch  20
+
+
+0.5725 max accuracy for learning rate 0.01 C 0.125 and epoch 3
+Accuracy found 59.5 -> C 0.125  for rate 0.01 with epoch  3
+Accuracy found 63.0 -> C 0.125  for rate 0.01 with epoch  5
+Accuracy found 52.25 -> C 0.125  for rate 0.01 with epoch  20
+
+
+0.63 max accuracy for learning rate 0.01 C 0.125 and epoch 5
+Accuracy found 52.0 -> C 0.125  for rate 0.01 with epoch  3
+Accuracy found 52.0 -> C 0.125  for rate 0.01 with epoch  5
+Accuracy found 52.0 -> C 0.125  for rate 0.01 with epoch  20
+
+
+0.52 max accuracy for learning rate 0.01 C 0.125 and epoch 20
+Accuracy found 47.5 -> C 0.5  for rate 0.5 with epoch  3
+Accuracy found 50.25 -> C 0.5  for rate 0.5 with epoch  5
+Accuracy found 57.25 -> C 0.5  for rate 0.5 with epoch  20
+
+
+0.5725 max accuracy for learning rate 0.5 C 0.5 and epoch 20
+Accuracy found 57.25 -> C 0.5  for rate 0.5 with epoch  3
+Accuracy found 49.25 -> C 0.5  for rate 0.5 with epoch  5
+Accuracy found 50.75 -> C 0.5  for rate 0.5 with epoch  20
+
+
+0.5725 max accuracy for learning rate 0.5 C 0.5 and epoch 3
+Accuracy found 53.0 -> C 0.5  for rate 0.5 with epoch  3
+Accuracy found 47.0 -> C 0.5  for rate 0.5 with epoch  5
+Accuracy found 53.0 -> C 0.5  for rate 0.5 with epoch  20
+
+
+0.53 max accuracy for learning rate 0.5 C 0.5 and epoch 20
+Accuracy found 52.25 -> C 0.5  for rate 0.5 with epoch  3
+Accuracy found 54.75 -> C 0.5  for rate 0.5 with epoch  5
+Accuracy found 52.25 -> C 0.5  for rate 0.5 with epoch  20
+
+
+0.5475 max accuracy for learning rate 0.5 C 0.5 and epoch 5
+Accuracy found 53.25 -> C 0.5  for rate 0.5 with epoch  3
+Accuracy found 48.0 -> C 0.5  for rate 0.5 with epoch  5
+Accuracy found 52.0 -> C 0.5  for rate 0.5 with epoch  20
+
+
+0.5325 max accuracy for learning rate 0.5 C 0.5 and epoch 3
+Accuracy found 55.0 -> C 0.25  for rate 0.5 with epoch  3
+Accuracy found 59.0 -> C 0.25  for rate 0.5 with epoch  5
+Accuracy found 47.5 -> C 0.25  for rate 0.5 with epoch  20
+
+
+0.59 max accuracy for learning rate 0.5 C 0.25 and epoch 5
+Accuracy found 56.0 -> C 0.25  for rate 0.5 with epoch  3
+Accuracy found 56.75 -> C 0.25  for rate 0.5 with epoch  5
+Accuracy found 49.25 -> C 0.25  for rate 0.5 with epoch  20
+
+
+0.5675 max accuracy for learning rate 0.5 C 0.25 and epoch 5
+Accuracy found 47.0 -> C 0.25  for rate 0.5 with epoch  3
+Accuracy found 53.0 -> C 0.25  for rate 0.5 with epoch  5
+Accuracy found 55.75 -> C 0.25  for rate 0.5 with epoch  20
+
+
+0.5575 max accuracy for learning rate 0.5 C 0.25 and epoch 20
+Accuracy found 47.75 -> C 0.25  for rate 0.5 with epoch  3
+Accuracy found 52.25 -> C 0.25  for rate 0.5 with epoch  5
+Accuracy found 57.0 -> C 0.25  for rate 0.5 with epoch  20
+
+
+0.57 max accuracy for learning rate 0.5 C 0.25 and epoch 20
+Accuracy found 55.75 -> C 0.25  for rate 0.5 with epoch  3
+Accuracy found 55.0 -> C 0.25  for rate 0.5 with epoch  5
+Accuracy found 48.0 -> C 0.25  for rate 0.5 with epoch  20
+
+
+0.5575 max accuracy for learning rate 0.5 C 0.25 and epoch 3
+Accuracy found 47.5 -> C 0.125  for rate 0.5 with epoch  3
+Accuracy found 56.0 -> C 0.125  for rate 0.5 with epoch  5
+Accuracy found 52.5 -> C 0.125  for rate 0.5 with epoch  20
+
+
+0.56 max accuracy for learning rate 0.5 C 0.125 and epoch 5
+Accuracy found 50.75 -> C 0.125  for rate 0.5 with epoch  3
+Accuracy found 51.5 -> C 0.125  for rate 0.5 with epoch  5
+Accuracy found 58.0 -> C 0.125  for rate 0.5 with epoch  20
+
+
+0.58 max accuracy for learning rate 0.5 C 0.125 and epoch 20
+Accuracy found 53.0 -> C 0.125  for rate 0.5 with epoch  3
+Accuracy found 55.75 -> C 0.125  for rate 0.5 with epoch  5
+Accuracy found 61.5 -> C 0.125  for rate 0.5 with epoch  20
+
+
+0.615 max accuracy for learning rate 0.5 C 0.125 and epoch 20
+Accuracy found 50.25 -> C 0.125  for rate 0.5 with epoch  3
+Accuracy found 52.25 -> C 0.125  for rate 0.5 with epoch  5
+Accuracy found 47.75 -> C 0.125  for rate 0.5 with epoch  20
+
+
+0.5225 max accuracy for learning rate 0.5 C 0.125 and epoch 5
+Accuracy found 55.5 -> C 0.125  for rate 0.5 with epoch  3
+Accuracy found 54.0 -> C 0.125  for rate 0.5 with epoch  5
+Accuracy found 55.25 -> C 0.125  for rate 0.5 with epoch  20
+
+
+0.555 max accuracy for learning rate 0.5 C 0.125 and epoch 3
+Accuracy found 50.75 -> C 0.5  for rate 0.7 with epoch  3
+Accuracy found 47.5 -> C 0.5  for rate 0.7 with epoch  5
+Accuracy found 47.5 -> C 0.5  for rate 0.7 with epoch  20
+
+
+0.5075 max accuracy for learning rate 0.7 C 0.5 and epoch 3
+Accuracy found 49.25 -> C 0.5  for rate 0.7 with epoch  3
+Accuracy found 63.5 -> C 0.5  for rate 0.7 with epoch  5
+Accuracy found 49.25 -> C 0.5  for rate 0.7 with epoch  20
+
+
+0.635 max accuracy for learning rate 0.7 C 0.5 and epoch 5
+Accuracy found 53.0 -> C 0.5  for rate 0.7 with epoch  3
+Accuracy found 55.75 -> C 0.5  for rate 0.7 with epoch  5
+Accuracy found 57.75 -> C 0.5  for rate 0.7 with epoch  20
+
+
+0.5775 max accuracy for learning rate 0.7 C 0.5 and epoch 20
+Accuracy found 53.0 -> C 0.5  for rate 0.7 with epoch  3
+Accuracy found 52.25 -> C 0.5  for rate 0.7 with epoch  5
+Accuracy found 54.5 -> C 0.5  for rate 0.7 with epoch  20
+
+
+0.545 max accuracy for learning rate 0.7 C 0.5 and epoch 20
+Accuracy found 60.5 -> C 0.5  for rate 0.7 with epoch  3
+Accuracy found 50.5 -> C 0.5  for rate 0.7 with epoch  5
+Accuracy found 48.0 -> C 0.5  for rate 0.7 with epoch  20
+
+
+0.605 max accuracy for learning rate 0.7 C 0.5 and epoch 3
+Accuracy found 47.5 -> C 0.25  for rate 0.7 with epoch  3
+Accuracy found 47.5 -> C 0.25  for rate 0.7 with epoch  5
+Accuracy found 47.5 -> C 0.25  for rate 0.7 with epoch  20
+
+
+0.475 max accuracy for learning rate 0.7 C 0.25 and epoch 20
+Accuracy found 59.25 -> C 0.25  for rate 0.7 with epoch  3
+Accuracy found 57.0 -> C 0.25  for rate 0.7 with epoch  5
+Accuracy found 59.5 -> C 0.25  for rate 0.7 with epoch  20
+
+
+0.595 max accuracy for learning rate 0.7 C 0.25 and epoch 20
+Accuracy found 55.0 -> C 0.25  for rate 0.7 with epoch  3
+Accuracy found 47.0 -> C 0.25  for rate 0.7 with epoch  5
+Accuracy found 54.25 -> C 0.25  for rate 0.7 with epoch  20
+
+
+0.55 max accuracy for learning rate 0.7 C 0.25 and epoch 3
+Accuracy found 57.5 -> C 0.25  for rate 0.7 with epoch  3
+Accuracy found 58.75 -> C 0.25  for rate 0.7 with epoch  5
+Accuracy found 47.75 -> C 0.25  for rate 0.7 with epoch  20
+
+
+0.5875 max accuracy for learning rate 0.7 C 0.25 and epoch 5
+Accuracy found 50.75 -> C 0.25  for rate 0.7 with epoch  3
+Accuracy found 52.0 -> C 0.25  for rate 0.7 with epoch  5
+Accuracy found 56.25 -> C 0.25  for rate 0.7 with epoch  20
+
+
+0.5625 max accuracy for learning rate 0.7 C 0.25 and epoch 20
+Accuracy found 58.0 -> C 0.125  for rate 0.7 with epoch  3
+Accuracy found 52.5 -> C 0.125  for rate 0.7 with epoch  5
+Accuracy found 52.25 -> C 0.125  for rate 0.7 with epoch  20
+
+
+0.58 max accuracy for learning rate 0.7 C 0.125 and epoch 3
+Accuracy found 49.25 -> C 0.125  for rate 0.7 with epoch  3
+Accuracy found 56.75 -> C 0.125  for rate 0.7 with epoch  5
+Accuracy found 50.75 -> C 0.125  for rate 0.7 with epoch  20
+
+
+0.5675 max accuracy for learning rate 0.7 C 0.125 and epoch 5
+Accuracy found 60.0 -> C 0.125  for rate 0.7 with epoch  3
+Accuracy found 58.25 -> C 0.125  for rate 0.7 with epoch  5
+Accuracy found 47.0 -> C 0.125  for rate 0.7 with epoch  20
+
+
+0.6 max accuracy for learning rate 0.7 C 0.125 and epoch 3
+Accuracy found 47.75 -> C 0.125  for rate 0.7 with epoch  3
+Accuracy found 54.0 -> C 0.125  for rate 0.7 with epoch  5
+Accuracy found 54.75 -> C 0.125  for rate 0.7 with epoch  20
+
+
+0.5475 max accuracy for learning rate 0.7 C 0.125 and epoch 20
+Accuracy found 55.0 -> C 0.125  for rate 0.7 with epoch  3
+Accuracy found 52.0 -> C 0.125  for rate 0.7 with epoch  5
+Accuracy found 52.0 -> C 0.125  for rate 0.7 with epoch  20
+
+
+0.55 max accuracy for learning rate 0.7 C 0.125 and epoch 3
+Accuracy found 49.0 -> C 0.5  for rate 0.9 with epoch  3
+Accuracy found 47.5 -> C 0.5  for rate 0.9 with epoch  5
+Accuracy found 52.5 -> C 0.5  for rate 0.9 with epoch  20
+
+
+0.525 max accuracy for learning rate 0.9 C 0.5 and epoch 20
+Accuracy found 51.25 -> C 0.5  for rate 0.9 with epoch  3
+Accuracy found 49.25 -> C 0.5  for rate 0.9 with epoch  5
+Accuracy found 50.75 -> C 0.5  for rate 0.9 with epoch  20
+
+
+0.5125 max accuracy for learning rate 0.9 C 0.5 and epoch 3
+Accuracy found 57.5 -> C 0.5  for rate 0.9 with epoch  3
+Accuracy found 52.75 -> C 0.5  for rate 0.9 with epoch  5
+Accuracy found 56.75 -> C 0.5  for rate 0.9 with epoch  20
+
+
+0.575 max accuracy for learning rate 0.9 C 0.5 and epoch 3
+Accuracy found 47.75 -> C 0.5  for rate 0.9 with epoch  3
+Accuracy found 52.5 -> C 0.5  for rate 0.9 with epoch  5
+Accuracy found 52.25 -> C 0.5  for rate 0.9 with epoch  20
+
+
+0.525 max accuracy for learning rate 0.9 C 0.5 and epoch 5
+Accuracy found 52.0 -> C 0.5  for rate 0.9 with epoch  3
+Accuracy found 52.0 -> C 0.5  for rate 0.9 with epoch  5
+Accuracy found 48.0 -> C 0.5  for rate 0.9 with epoch  20
+
+
+0.52 max accuracy for learning rate 0.9 C 0.5 and epoch 5
+Accuracy found 58.75 -> C 0.25  for rate 0.9 with epoch  3
+Accuracy found 57.25 -> C 0.25  for rate 0.9 with epoch  5
+Accuracy found 47.5 -> C 0.25  for rate 0.9 with epoch  20
+
+
+0.5875 max accuracy for learning rate 0.9 C 0.25 and epoch 3
+Accuracy found 49.25 -> C 0.25  for rate 0.9 with epoch  3
+Accuracy found 61.5 -> C 0.25  for rate 0.9 with epoch  5
+Accuracy found 56.75 -> C 0.25  for rate 0.9 with epoch  20
+
+
+0.615 max accuracy for learning rate 0.9 C 0.25 and epoch 5
+Accuracy found 56.75 -> C 0.25  for rate 0.9 with epoch  3
+Accuracy found 51.5 -> C 0.25  for rate 0.9 with epoch  5
+Accuracy found 47.75 -> C 0.25  for rate 0.9 with epoch  20
+
+
+0.5675 max accuracy for learning rate 0.9 C 0.25 and epoch 3
+Accuracy found 47.75 -> C 0.25  for rate 0.9 with epoch  3
+Accuracy found 56.25 -> C 0.25  for rate 0.9 with epoch  5
+Accuracy found 47.75 -> C 0.25  for rate 0.9 with epoch  20
+
+
+0.5625 max accuracy for learning rate 0.9 C 0.25 and epoch 5
+Accuracy found 59.5 -> C 0.25  for rate 0.9 with epoch  3
+Accuracy found 48.0 -> C 0.25  for rate 0.9 with epoch  5
+Accuracy found 52.0 -> C 0.25  for rate 0.9 with epoch  20
+
+
+0.595 max accuracy for learning rate 0.9 C 0.25 and epoch 3
+Accuracy found 55.0 -> C 0.125  for rate 0.9 with epoch  3
+Accuracy found 47.5 -> C 0.125  for rate 0.9 with epoch  5
+Accuracy found 52.5 -> C 0.125  for rate 0.9 with epoch  20
+
+
+0.55 max accuracy for learning rate 0.9 C 0.125 and epoch 3
+Accuracy found 51.0 -> C 0.125  for rate 0.9 with epoch  3
+Accuracy found 49.25 -> C 0.125  for rate 0.9 with epoch  5
+Accuracy found 50.75 -> C 0.125  for rate 0.9 with epoch  20
+
+
+0.51 max accuracy for learning rate 0.9 C 0.125 and epoch 3
+Accuracy found 47.0 -> C 0.125  for rate 0.9 with epoch  3
+Accuracy found 56.25 -> C 0.125  for rate 0.9 with epoch  5
+Accuracy found 59.5 -> C 0.125  for rate 0.9 with epoch  20
+
+
+0.595 max accuracy for learning rate 0.9 C 0.125 and epoch 20
+Accuracy found 47.75 -> C 0.125  for rate 0.9 with epoch  3
+Accuracy found 56.75 -> C 0.125  for rate 0.9 with epoch  5
+Accuracy found 56.25 -> C 0.125  for rate 0.9 with epoch  20
+
+
+0.5675 max accuracy for learning rate 0.9 C 0.125 and epoch 5
+Accuracy found 52.0 -> C 0.125  for rate 0.9 with epoch  3
+Accuracy found 56.25 -> C 0.125  for rate 0.9 with epoch  5
+Accuracy found 54.0 -> C 0.125  for rate 0.9 with epoch  20
+
+
+0.5625 max accuracy for learning rate 0.9 C 0.125 and epoch 5
